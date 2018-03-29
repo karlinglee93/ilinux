@@ -1,6 +1,5 @@
-I'm going to study Linux today 
-by using Git & Cloud Servers 
-provided by Alibaba Cloud 
+I'm going to study Linux & c++ today 
+by using Git & Alibaba Cloud Servers  
 whith is pretty generous company
 that students pay 9.9 yuan 
 per month only!
